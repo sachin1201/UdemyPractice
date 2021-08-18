@@ -7,6 +7,8 @@ public class UdemyTest {
 		System.out.println("add1");
 		System.out.println("remove");
 
+		System.out.println("add1-develope");
+		System.out.println("remove-develope");
 	}
 
 }
